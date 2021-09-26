@@ -1,10 +1,5 @@
 # Bank-Customer-Churn-Modelling
 
-
-
-## #Task: 
-To build machine learning model that can predict if a customer is likely to exit a bank
-
 # Description
 The aim of this project is to predict if a customer will exit the bank or not. I made use of features such as credit score, geography, gender, tenure, age, balance, has credit card, is active and estimated salary for the prediction.
 The following steps where followed;
