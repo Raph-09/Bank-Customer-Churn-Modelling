@@ -13,7 +13,7 @@ Training accuracy:80%
 Testing Accuracy: 80%
    
  # Run Locally
-  Run this commandon ur command line:https://github.com/Raph-09/Employee-Salary-Manager-Project.git
+  Run this commandon ur command line:https://github.com/Raph-09/Bank-Customer-Churn-Modelling.git
   
   Install the packages that are found in requirement.txt file
   
