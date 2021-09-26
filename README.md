@@ -14,6 +14,7 @@ The following steps where followed;
 5) Artificial Neural Network(ANN)
 # Performance metric
 Training accuracy:80%
+
 Testing Accuracy: 80%
    
  # Run Locally
@@ -27,4 +28,5 @@ Testing Accuracy: 80%
  pandas
  
  numpy
+ 
  Tensorflow/Keras                                                                                                                                       
